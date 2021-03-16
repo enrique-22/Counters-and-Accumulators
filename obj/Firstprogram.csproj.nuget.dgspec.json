@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Universidad\\Ciclo 04\\POO\\4-Evaluaciones\\Optativa #1 (Git y Github)\\Counters-and-Accumulators\\Firstprogram.csproj": {}
+    "C:\\Users\\Rafael\\Desktop\\POO\\Labos\\Counters-and-Accumulators\\Firstprogram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Universidad\\Ciclo 04\\POO\\4-Evaluaciones\\Optativa #1 (Git y Github)\\Counters-and-Accumulators\\Firstprogram.csproj": {
+    "C:\\Users\\Rafael\\Desktop\\POO\\Labos\\Counters-and-Accumulators\\Firstprogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Universidad\\Ciclo 04\\POO\\4-Evaluaciones\\Optativa #1 (Git y Github)\\Counters-and-Accumulators\\Firstprogram.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\POO\\Labos\\Counters-and-Accumulators\\Firstprogram.csproj",
         "projectName": "Firstprogram",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Universidad\\Ciclo 04\\POO\\4-Evaluaciones\\Optativa #1 (Git y Github)\\Counters-and-Accumulators\\Firstprogram.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Universidad\\Ciclo 04\\POO\\4-Evaluaciones\\Optativa #1 (Git y Github)\\Counters-and-Accumulators\\obj\\",
+        "projectPath": "C:\\Users\\Rafael\\Desktop\\POO\\Labos\\Counters-and-Accumulators\\Firstprogram.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael\\Desktop\\POO\\Labos\\Counters-and-Accumulators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
