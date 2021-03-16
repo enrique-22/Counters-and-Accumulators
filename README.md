@@ -1,3 +1,3 @@
 # Counters-and-Accumulators
-Este programa realiza suma y resta.
+Este programa tiene tres funciones suma y resta y multiplicación.
 The Boys POO012021
