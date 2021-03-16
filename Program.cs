@@ -15,9 +15,10 @@ namespace Firstprogram
           Console.WriteLine("Enter a value for  b:");
           
           b= Int32.Parse(Console.ReadLine());
-
+          
+          Console.WriteLine($"the multiplication is {a} * {b} = {MultiplyaNumber(a,b)}");
           //Console.WriteLine($"The sum is {a} + {b} = {AddNumbers(a,b)}");
-          Console.WriteLine($"The subtraction is {a} - {b} = {SubtractingaNumber(a,b)}");
+          //Console.WriteLine($"The subtraction is {a} - {b} = {SubtractingaNumber(a,b)}");
 
         }
 /*
@@ -26,12 +27,18 @@ namespace Firstprogram
             return a + b;
         }
 */
-        public static int SubtractingaNumber(int a, int b)
-        {
-            return a - b;
+        //public static int SubtractingaNumber(int a, int b)
+        //{
+        //    return a - b;
+        //}
+
+    //}
+   
+           public static int MultiplyaNumber(int a, int b)
+       {
+           return a*b;
+       }
+       
         }
 
-    }
-   
-        
 }

@@ -30,3 +30,19 @@ C:\Users\ADMIN\Documents\Universidad\Ciclo 04\POO\4-Evaluaciones\Optativa #1 (Gi
 C:\Users\ADMIN\Documents\Universidad\Ciclo 04\POO\4-Evaluaciones\Optativa #1 (Git y Github)\Counters-and-Accumulators\obj\Debug\net5.0\ref\Firstprogram.dll
 C:\Users\ADMIN\Documents\Universidad\Ciclo 04\POO\4-Evaluaciones\Optativa #1 (Git y Github)\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.pdb
 C:\Users\ADMIN\Documents\Universidad\Ciclo 04\POO\4-Evaluaciones\Optativa #1 (Git y Github)\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\Firstprogram.exe
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\Firstprogram.deps.json
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\Firstprogram.runtimeconfig.json
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\Firstprogram.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\Firstprogram.dll
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\ref\Firstprogram.dll
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\bin\Debug\net5.0\Firstprogram.pdb
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.dll
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\ref\Firstprogram.dll
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.pdb
+C:\Users\Rafael\Desktop\POO\Labos\Counters-and-Accumulators\obj\Debug\net5.0\Firstprogram.genruntimeconfig.cache
